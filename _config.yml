@@ -3,7 +3,7 @@ highlighter: pygments
 
 url: http://meefen.github.io/laumn16
 shorturl: meefen.github.io/laumn16
-baseurl: /
+baseurl: 
 
 python: false
 
