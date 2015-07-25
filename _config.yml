@@ -1,37 +1,37 @@
-name: Professor Jekyll Teaches You to Blog Like a Hacker
-pygments: true
+name: Special Topics in Learning Analytics
+highlighter: pygments
 
-baseurl: /professorjekyll
+baseurl:
 
 python: false
 
 course:
-  title: Intro to Hacking
-  number: Jekyll 101
-  instructor: Prof. Jekyll
-  
+  title: Learning Analytics in the Knowledge Age
+  number: CI 5531
+  instructor: Prof. Bodong Chen
+
 authors:
-  einstein:
-      name: Albert Einstein
+  meefen:
+      name: Bodong Chen
       prof: true
-      gravatar: 
-      website: http://www.relativity.com
-      github: 
-      twitter:
-      about:  Albert Einstein discovered that E=mc^2.  
+      gravatar:
+      website: http://meefen.github.io/
+      github: meefen
+      twitter: bodong_c
+      about:  Assistant Professor in learning technologies
   wittgenstein:
       name: Ludwig Wittgenstein
-      prof: true
+      prof: false
       gravatar:
       website: http://www.tractatus.com
       github:
       twitter:
-      about:  Ludwig Wittgenstein discovered that the meaning of E=mc^2 is its use.  
+      about:  Ludwig Wittgenstein discovered that the meaning of E=mc^2 is its use.
   mccarthy:
       name: John McCarthy
       prof: true
       website: http://common-lisp.net/
-      about: John McCarthy invented LISP.  Use it.  
+      about: John McCarthy invented LISP.  Use it.
   jdoe:
       name: John Doe
       prof: false

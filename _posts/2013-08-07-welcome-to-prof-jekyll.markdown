@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Professor Jekyll!"
 date:   2013-08-07 13:10:29
 categories: jekyll update
-author: einstein
+author: meefen
 ---
 
 ## Professor Jekyll Wants You to Learn
