@@ -1,9 +1,7 @@
 name: Special Topics in Learning Analytics
 highlighter: pygments
 
-url: http://meefen.github.io/laumn16
-shorturl: meefen.github.io/laumn16
-baseurl: 
+baseurl: /laumn16
 
 python: false
 
